@@ -1,6 +1,6 @@
 {
   "name": "@dramaorg/literate-doodle",
-  "version": "2.4.32",
+  "version": "2.4.33",
   "description": "",
   "main": "index.js",
   "author": "dramatinahj",
@@ -267,5 +267,5 @@
   "bugs": {
     "url": "https://github.com/dramaorg/literate-doodle/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
